@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Khushi Tiwari
 
-<!--
-**khushitiwari2708/khushitiwari2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI/ML Student  
+🤖 Exploring AI Engineering, Automation & Intelligent Systems  
+🐍 Currently learning Python, Git & GitHub  
+🚀 Building my skills through projects and experiments
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git & GitHub
+- Linux
+- Problem Solving
+- AI/ML Fundamentals
+
+## 🎯 My Goal
+
+To become a strong AI/ML engineer and build real-world intelligent systems.
